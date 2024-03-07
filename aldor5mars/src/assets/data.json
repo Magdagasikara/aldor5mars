@@ -1,0 +1,20 @@
+{
+    "user": "Aldor",
+    "projects": [
+        {
+            "name": "My first project",
+            "description": "Skapad 2023",
+            "progress": 95
+        },
+        {
+            "name": "My second project",
+            "description": "Skapad 2024",
+            "progress": 55
+        },
+        {
+            "name": "My third project",
+            "description": "In progress",
+            "progress": 30
+        }
+    ]
+}
